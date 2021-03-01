@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Login Page</title>
+</head>
+<body>
+<!--
+ - header section 에는 상단에 고정할 메뉴바를 만들었습니다.
+ - button 태그의 prev 클래스는 이전 메인화면으로 리다이렉트
+ - img 태그의 photo 클래스는 접속한 사용자에대한 이미지를 출력합니다.
+-->
+<header>
+    <div>
+        <label for="user-prev"></label>
+        <button type="button" class="prev" id="user-prev">< prev</button>
+    </div>
+    <div class="login-photo">
+        <label for="user-image"></label>
+        <img class="photo" id="user-image" src="https://lh3.googleusercontent.com/proxy/E5_eSkOmkr0xCMNtqiU6r03pM76OtWWZ2QdrbvaWtPHFH7JZF5eKJcLoud3M1EuzFOyf-vemTAJ2Pndskb4vFbUBvykF0UTSPq7CpL_Z5KGVks-E-F_T_zy2PKcFlwtqjAbwsJ6WqOb3Su6Aw3WgYuzPJuc2nFsLMpOHOwzHKVKea0BNV8OtLrZhulboh5_cnSHrNlSU0K2xCmaHKmBB6C_uboRttxPjcTDr4sS-aqMYrmjzzdqmuu_8eL0UotxuVs2RZNMl4jOk48aXhRpB5SadRZl71_sdfnP-GCwavWnPi4ZkIg97IHF_GXdDOqXpdFLS5r0Qz17S0g9neLr7iJblItHHgAXDeg" alt="TEXT">
+    </div>
+</header>
+
+<!--
+ - 로그인 기능 구현
+ - id 라는 클래스를 가진 input 태그는 로그인할 회원 아이디 정보를 받는다.
+ - pw 라는 클래스를 가진 input 태그는 로그인할 회원 패스워드 정보를 받는다.
+ - btn 라는 클래스를 가진 button 태그는 클라이언트가 아이디와 패스워드 정보를 입력하면 일치하는 계정으로 로그인을 수행한다.
+ - btn_sign 클래스를 가진 button 태그는 회원가입을 하는 페이지로 리다이렉트 한다.
+-->
+<section class="wrap">
+    <h1>항스트 로그인</h1>
+    <form>
+        <div class="login-id">
+            <label for="user-id"></label>
+            <input type="text" class="id" id="user-id" placeholder="Username">
+        </div>
+        <div class="login-pw">
+            <label for="user-pw"></label>
+            <input type="password" class="pw" id="user-pw" placeholder="PW">
+        </div>
+        <div class="login-check">
+            <label for="user-login"></label>
+            <button type="button" class="btn" id="user-login">Login</button>
+        </div>
+    </form>
+    <form>
+        <div class="login-sign-up">
+            <label for="user-sign"></label>
+            <button type="button" class="btn_sign" id="user-sign">Sign up</button>
+        </div>
+    </form>
+</section>
+<footer>
+    <p>@2021 항스트</p>
+</footer>
+</body>
+</html>
