@@ -5,14 +5,15 @@
 - 미션 외에도 성취하기 위한 나만의 Daily Todo 를 작성해보세요!
 
 <br>
-<br>
+
    
 ## 🧐 적용 기술 및 환경
 
 
 - AWS Cloud Platform, Flask Web Framework, MongoDB   
 <br>
-<br>
+
+
 ## 👌 규칙
 
 
@@ -20,7 +21,7 @@
 - Jinja2 템플릿 엔진을 이용한 서버사이드 렌더링   
 
 <br>
-<br>
+
 ## 📕 와이어 프레임
 
 
