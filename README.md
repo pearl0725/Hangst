@@ -29,11 +29,13 @@
 
 - 로그인
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ed6bb73-cee0-46cc-8fe6-15d20ad12d73/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ed6bb73-cee0-46cc-8fe6-15d20ad12d73/Untitled.png)
+![login](https://user-images.githubusercontent.com/67486916/109515359-5744e180-7aea-11eb-9037-a464f2c7fd17.png)
+
 
 - 회원가입
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693f1c04-e311-4520-a6ab-97f8d9e213ac/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693f1c04-e311-4520-a6ab-97f8d9e213ac/Untitled.png)
+![join](https://user-images.githubusercontent.com/67486916/109515418-63c93a00-7aea-11eb-8f92-cbdda3460830.png)
+
 
 ## 📜 API 설계
 
