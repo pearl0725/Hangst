@@ -24,7 +24,7 @@
 
 - 메인, 투두리스트 추가
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eda02c7a-2b53-4b81-88e0-55c60401c191/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eda02c7a-2b53-4b81-88e0-55c60401c191/Untitled.png)
+![https://github.com/pearl0725/Hangst/issues/1#issue-818950635)
 
 - 로그인
 
