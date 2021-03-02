@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <title>회원가입</title>
+    <style>
+        body{
+            background-color: #eeeeee;
+        }
+
+        .wrap{
+            width: 500px;
+            margin: auto;
+        }
+
+        .title-hangst{
+            color: dodgerblue;
+            font-size: 70px;
+            font-weight: bold;
+            margin: 40px auto 30px auto;
+            text-align: center;
+        }
+
+        .subtitle{
+            font-size: 20px;
+            font-weight: bold;
+            color: dimgray;
+        }
+
+        .form-control{
+            height: 65px;
+            margin-bottom: 20px;
+            border-color: darkgray;
+            border-radius: 0px;
+        }
+
+        .btn-primary{
+            background-color: dodgerblue;
+            width: 500px;
+            border-radius: 0;
+            height: 65px;
+            font-size: 23px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="background">
+        <div class="wrap">
+            <h1 class="title-hangst">항스트</h1>
+            <div class="form-group">
+                <label class="subtitle" for="inputId">아이디</label>
+                <input type="text" class="form-control" id="inputId" placeholder="Enter id">
+            </div>
+            <div class="form-group">
+                <label class="subtitle" for="inputPassword">비밀번호</label>
+                <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+            </div>
+            <div class="form-group">
+                <label class="subtitle" for="InputPasswordCheck">비밀번호 재확인</label>
+                <input type="password" class="form-control" id="InputPasswordCheck" placeholder="Check Password">
+            </div>
+            <div class="form-group">
+                <label class="subtitle" for="inputName">이름</label>
+                <input type="text" class="form-control" id="inputName" placeholder="Enter name">
+            </div>
+            <div class="form-group">
+                <label class="subtitle" for="exampleInputEmail1">이메일</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email address">
+            </div>
+
+            <button type="button" class="btn btn-primary">가입하기</button>
+        </div>
+    </section>
+</body>
+
+</html>
