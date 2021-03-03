@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <!-- Webpage Title -->
+    <title> Hangst99 </title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bulma CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <!-- Font Awesome CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <link rel="stylesheet" href="../static/css/login.css">
+</head>
+
+<body>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="">
+            <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+        </a>
+    </div>
+    <div class="navbar-end">
+        <div class="navbar-item">
+            <div class="user-icon">
+                <img style="border-radius: 50%" src="../static/img/profile_placeholder.png">
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!--
+로그아웃 기능 구현
+-->
+<section class="section">
+    <h1>
+        항스트99 로그인
+    </h1>
+    <form action="/logout_click" method="get">
+        <button class="level-item button is-sparta" id="logout-button">
+            LOGOUT
+        </button>
+    </form>
+    <script src="../static/js/app02.js"></script>
+</section>
+</body>
+</html>
