@@ -1,5 +1,8 @@
 # 📝 Hangst99, 항스트
 
+![Hangst-logo](https://user-images.githubusercontent.com/67486916/110014144-cda14800-7d65-11eb-8111-ea13b9557b4c.png)
+
+<br>
 
 - 항해에서 주어지는 미션을 등록하고, 등록한 미션을 수행하였을 때 완료 처리를 함으로써 성취감을 얻기 위한 투두리스트입니다!
 - 미션 외에도 성취하기 위한 나만의 Daily Todo 를 작성해보세요!
