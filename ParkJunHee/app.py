@@ -35,12 +35,9 @@ def insert_memo():
 def delete_memo():
     # main.html에서 memodata 전달된 memo_give를 memo_receive에 담는다.
     memo_receive = request.form['memo_give']
-    # 해당 memodata를 delete 처리한다. 
+    # 해당 memodata를 delete 처리한다.
     db.memo.delete_one({'memo': memo_receive})
     return jsonify({'msg': 'delete 연결되었습니다!'})
-
-
-
 
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5000, debug=True)
