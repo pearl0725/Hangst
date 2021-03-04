@@ -41,7 +41,7 @@
 
 - 회원가입
 
-![join](https://user-images.githubusercontent.com/67486916/109515418-63c93a00-7aea-11eb-8f92-cbdda3460830.png)
+![image](https://user-images.githubusercontent.com/67486916/110013645-389e4f00-7d65-11eb-8642-5a673ec4e942.png)
 
 <br>   
 <br>
