@@ -27,7 +27,8 @@
 
 - 메인, 투두리스트 추가
 
-![메인페이지](https://user-images.githubusercontent.com/67486916/109515300-47c59880-7aea-11eb-81f6-a4e60011062f.png)
+![image](https://user-images.githubusercontent.com/67486916/110014029-a9de0200-7d65-11eb-8862-01089384fa49.png)
+
 
 <br>
 <br>
