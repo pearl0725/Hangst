@@ -1,0 +1,48 @@
+body {
+    background-color: #eeeeee;
+}
+
+.wrap {
+    width: 500px;
+    margin: auto;
+}
+
+.title-hangst {
+    color: dodgerblue;
+    font-size: 70px;
+    font-weight: bold;
+    margin: 40px auto 30px auto;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: dimgray;
+}
+
+.form-control {
+    height: 65px;
+    margin-bottom: 20px;
+    border-color: darkgray;
+    border-radius: 0px;
+}
+
+.btn-check-id {
+    border-radius: 0px;
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+    width: 500px;
+    border-radius: 0;
+    height: 65px;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.help {
+    color: darkgray;
+    font-size: 13px;
+}
