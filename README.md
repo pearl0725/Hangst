@@ -34,7 +34,7 @@
    
 - 로그인
 
-![login](https://user-images.githubusercontent.com/67486916/109515359-5744e180-7aea-11eb-9037-a464f2c7fd17.png)
+![image](https://user-images.githubusercontent.com/67486916/110013645-389e4f00-7d65-11eb-8642-5a673ec4e942.png)
 
 <br>
 <br>
