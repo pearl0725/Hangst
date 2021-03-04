@@ -1,6 +1,6 @@
 # 📝 Hangst99, 항스트
 
-![Hangst-logo](https://user-images.githubusercontent.com/67486916/110014144-cda14800-7d65-11eb-8111-ea13b9557b4c.png){: width="300" height="100"}
+![Hangst-logo](https://user-images.githubusercontent.com/67486916/110014144-cda14800-7d65-11eb-8111-ea13b9557b4c.png)
 
 <br>
 
