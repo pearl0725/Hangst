@@ -1,0 +1,72 @@
+body {
+    background: #FAFAFA;
+    font-family: 'Jua', sans-serif;
+}
+
+.navbar {
+    background: rgb(167, 156, 142);
+}
+
+
+.wrap {
+    width: 450px;
+    margin: auto;
+    /*border: 1px solid black;*/
+    /*box-shadow: 5px 5px 5px;*/
+}
+
+.title-hangst {
+    color: #585858;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 50px auto 30px auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: dimgray;
+}
+
+.form-control {
+    height: 50px;
+    border-color: lightgray;
+    border-radius: 0px;
+}
+
+.btn-check-id {
+    border-radius: 0px;
+    color: #585858;
+    font-family: 'Jua', sans-serif;
+    border-color: lightgray;
+}
+
+.btn-check-id:hover {
+    background-color: #585858;
+    color: white;
+}
+
+.btn-primary {
+    width: 450px;
+    border-radius: 0;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px auto 100px auto;
+    background-color: #585858;
+    font-family: 'Jua', sans-serif;
+    border-color: #585858;
+}
+
+.btn-primary:hover {
+    color: #585858;
+    background-color: white;
+}
+
+.help {
+    color: darkgray;
+    font-size: 13px;
+    margin-bottom: 20px;
+}

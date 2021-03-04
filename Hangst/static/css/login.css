@@ -1,0 +1,36 @@
+body {
+    background: #FAFAFA;
+    font-family: 'Jua', sans-serif;
+}
+
+.button.is-sparta {
+    background-color: #585858;
+    border-color: transparent;
+    color: #fff !important;
+}
+
+.button.is-sparta.is-outlined {
+    background-color: transparent;
+    border-color: #585858;
+    color: #585858 !important;
+}
+
+.help {
+    color: gray;
+}
+
+.section h1 {
+    color: #585858;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.navbar {
+    background: #a79c8e;
+}
+
+.navbar-item {
+    postition: absolute;
+}
+
